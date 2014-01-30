@@ -1,0 +1,18 @@
+{
+  "uuid": "d022baea-91b9-457b-9881-25909a005dc6",
+  "shortName": "pebble-bot",
+  "longName": "pebble-bot",
+  "companyName": "MakeAwesomeHappen",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "angle": 0,
+    "speed": 1
+  },
+  "resources": {
+    "media": []
+  }
+}
